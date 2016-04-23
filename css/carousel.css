@@ -26,12 +26,11 @@
 .carousel-control.right, .carousel-control.left {
     background-image: none;
     background-repeat: inherit;
-    background-color: rgba( 0, 0, 0, 0.7 );
     top: 50%;
     width: 40px;
     height: 40px;
     margin-top: -20px;
-    line-height: 40px;
+    line-height: 30px;
 }
 /*.carousel-inner > .item {
     -webkit-transition: 0.3s ease-in-out left;
