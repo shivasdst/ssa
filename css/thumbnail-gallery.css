@@ -1,0 +1,206 @@
+/*!
+ * Start Bootstrap - Thumbnail Gallery HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body{
+	font-family: 'Asap', sans-serif;
+    padding-top: 20px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.thumb {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+/*....Custom style......*/
+
+.text-large{
+	font-size: 1.3em;
+}
+.line-below{
+	border-bottom: 1px dotted #CCC;
+}
+
+.gap-above{
+	margin-top: 2em;
+}
+.gap-above-large{
+	margin-top: 2em;
+}
+.gap-below-large{
+	margin-top: 360px;
+}
+.container .row h1{
+	font-family: 'Open Sans Condensed', sans-serif;
+	border-bottom: 1px solid #222222;
+	color: #222222;
+	font-weight: 800;
+}
+.about-text{
+	font-size: 1.2em;
+	text-align: left;
+}
+footer{
+	margin: 0em;
+}
+
+.book_title a:hover{
+    text-decoration: underline;
+}
+.book{
+    padding-top: 1em;
+    padding-bottom: 0.2em;
+    text-align: center;
+    font-size: 1.5em;
+    color: #731F11;
+}
+.dnone{
+	display: none;
+}
+.treeview{
+    margin-left: 1.5em;
+}
+.treeview ul li { 
+	list-style-type: none; 
+	list-style-position:outside;
+	padding-bottom: 0.5em;
+	padding-top: 0.5em;
+	text-align: left;
+	margin-right: 2em;
+	text-indent: -18px;
+    margin-left: 2em;
+}
+.btitle{
+    margin-left: 2em;
+}
+.treeview ul li img{ 
+	vertical-align: middle;
+}
+
+.treeview ul li a{
+	text-decoration: none;
+}
+
+.s1{
+	letter-spacing: 1px;
+}
+.s1 a{
+	color: #000;
+	font-size: 1em;
+}
+.s1 a:hover{
+	text-decoration: underline;
+}
+.s2 {
+	letter-spacing: 1px;
+} 
+.s2 a{
+	color: #000;
+	font-size: 1em;
+}
+.s2 a:hover{
+	text-decoration: underline;
+}
+.toc_title{
+    font-size: 1.3em;
+    padding: 0.5em 0em 1em 1em;
+    color: #000;
+}
+.contents{
+	min-height: 560px;
+	margin-top: 2em;
+}
+
+
+nav{
+	background-color: #674D90 !important;
+}
+
+a.navbar-brand{
+	color: #FFF !important;
+}
+.navbar-text{
+	font-size: 18px;
+	line-height: 20px;
+	margin-left: 20px;
+	color: #FFF;
+	transition: all 0.3s ease;
+	/*color: #BF360C;*/
+}
+
+@media(min-width:768px) {
+	a.navbar-brand{
+		color: #FFF !important;
+	}
+	.navbar-text{
+		margin-left: 10px;
+	}
+	.wider{
+		transition: all 0.3s ease;
+	}
+	.wider .navbar-brand img{
+		height: 80px !important;
+		transition: height 0.3s ease;
+	}
+	.wider .navbar-text{
+		font-size: 18px !important;
+		font-weight: bold !important;
+		margin-top: 35px !important;
+		transition: all 0.3s ease;
+	}
+	.wider .navbar-nav>li>a {
+		padding-top: 35px !important;
+		padding-bottom: 35px !important;
+	}
+}
+
+.navbar-default{
+	font-size: 13px;
+	margin-bottom: 0;
+	background-color: #674D90;
+	border-color: #674D90;
+}
+a{
+	font-size: 13px;
+}
+.navbar-nav>.open>a, 
+.navbar-nav>.open>a:focus, 
+.navbar-nav>.open>a:hover {
+	background-color: #000 !important;
+	color: #FFF !important;
+}
+.navbar-nav > .active > a,
+.navbar-nav > .active > a:hover,
+.navbar-nav > .active > a:focus {
+/*
+	background-color: transparent !important;
+*/
+}
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus {
+  /*color: rgb(53, 89, 135);*/
+	color: #000;
+}
+.navbar-nav > li > a{
+	text-transform: uppercase;
+	font-weight: 600;
+	color: #EEE;
+}
+.navbar-nav .dropdown-menu {
+	box-shadow: 2px 2px 10px rgba(0,0,0,0.175);
+	border-radius: 0px;
+	top: 99%;
+	border: none;
+	border-top: 2px solid #32557f;
+}
+.navbar-toggle .icon-bar{
+	background-color: #FFF;
+}
+.navbar-toggle:hover{
+	background-color: #CCC;	
+}
