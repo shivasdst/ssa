@@ -2,7 +2,7 @@
 <!DOCTYPE ssa SYSTEM "ss_ayyar.dtd">
 
 <ssa>
-	<book bid="001">
+	<book bid="001" btitle="Book 1">
 		<s1 page="0003" title="I அர்ஜுந விஷாத யோக">
 			<s2 page="0003" title="Main Naration"></s2>
 			<s2 page="0015" title="Dhuryodhana's Survey of the Armies"></s2>
@@ -23,7 +23,7 @@
 			<s2 page="0593" title="Sthitha-Pragna"></s2>
 		</s1>
 	</book>
-	<book bid="002">
+	<book bid="002" btitle="Book 2">
 		<s1 page="0003" title="XII பக்தி யோக">
 			<s2 page="0003" title="Worship of Perceptible or of Imperceptible, which is Superior"></s2>
 			<s2 page="0023" title="End of both the Same. Worship of Perceptible is easier & Speedily Successful"></s2>
@@ -70,7 +70,7 @@
 			<s2 page="0781" title="Advice for Decision"></s2>
 		</s1>
 	</book>
-	<book bid="003">
+	<book bid="003" btitle="Book 3">
 		<s1 page="0003" title="III கர்ம யோக">
 			<s2 page="0003" title="Sanyasa or Karma, which is to be Preferred"></s2>
 			<s2 page="0009" title="Two Kinds of Nishtas Karma Yoga Superior"></s2>
@@ -96,7 +96,7 @@
 			<s2 page="0809" title="Direction for Karma with ஜ்ஞாந as Yoga"></s2>
 		</s1>
 	</book>
-	<book bid="004">
+	<book bid="004" btitle="Book 4">
 		<s1 page="0003" title="VIII அக்ஷர ப்ரஹ்ம யோக">
 			<s2 page="0003" title="அத்யாத்ம, அதிபூத, அதிதைவ, அதியஜ்ஞ Explained"></s2>
 			<s2 page="0031" title="Release by thought of God at Death by Constant thought even in Action"></s2>
@@ -140,7 +140,7 @@
 			<s2 page="0726" title="Final Advice"></s2>
 		</s1>
 	</book>
-	<book bid="005">
+	<book bid="005" btitle="Book 5">
 		<s1 page="0003" title="V கர்ம ஸந்ந்யாஸ யோக">
 			<s2 page="0003" title="Karma Sanyasa or Karma Yoga, which Superior"></s2>
 			<s2 page="0051" title="Mental Sanyasa with Karma is Karma Yoga"></s2>
@@ -173,7 +173,7 @@
 			<s2 page="0856" title="Realisation that ப்ரஹ்மந், அத்யாத்ம, கர்ம, ஆதிபூத, அதியஜ்ஞ, அதிதைவ, are all the Lord"></s2>
 		</s1>
 	</book>
-	<book bid="006">
+	<book bid="006" btitle="Book 6">
 		<s1 page="0003" title="XVII ஶ்ரத்தாத்ரய விபாக யோக">
 			<s2 page="0003" title="Three Kinds of ஶ்ரத்த"></s2>
 			<s2 page="0035" title="அஸுர ஶ்ரத்த"></s2>
